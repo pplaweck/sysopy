@@ -1,0 +1,1 @@
+Niewielkie lecz zauważalne róznice podczas czasu działania funkcji z wykorzystaniem flagi kompilacji dla O2 oraz O3 najszybsze czasy.
